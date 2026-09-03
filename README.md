@@ -20,5 +20,5 @@ Evaluated 9 machine learning models using a 70/30 train-test split:
 | Logistic Regression | 0.787 | 0.800 | 0.899 | 0.849 |
 
 ## Key Takeaways
-* Top Features: `Figure Length` (major axis of the ellipse), `Figure Alpha` (camera angle), and `Figure Size` were the strongest predictors.
+* Top Features: Figure Length (major axis of the ellipse), Figure Alpha (camera angle), and Figure Size were the strongest predictors.
 * Best Performer: Tuned XGBoost outperformed all baseline and ensemble models, achieving an **0.911 F1 score**.
