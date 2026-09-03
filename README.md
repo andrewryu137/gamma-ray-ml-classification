@@ -2,7 +2,7 @@
 
 Binary classification of high-energy Cherenkov gamma-ray events versus atmospheric hadronic noise using supervised machine learning models.
 
-![Research Poster](poster.png)
+![Research Poster](SPCMachineLearningPoster.pdf)
 
 ## 📌 Project Overview
 * **Goal:** Distinguish gamma-ray signals from hadronic noise patterns using geometric and light features.
